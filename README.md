@@ -1,3 +1,7 @@
+## Demo Link 
+https://clone-f55ee.web.app
+
+<img src="https://github.com/alan-saldanha017/Amazon-Clone/blob/master/home-page%20Screen%20Capture.PNG"/>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
